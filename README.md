@@ -87,9 +87,9 @@
 
 <h3 align="left">Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubek-joshi&show_icons=true&locale=en&layout=compact" alt="rubek-joshi" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubek-joshi&show_icons=true&theme=dark&locale=en&layout=compact" alt="rubek-joshi" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubek-joshi&show_icons=true&locale=en" alt="rubek-joshi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubek-joshi&show_icons=true&theme=dark&locale=en" alt="rubek-joshi" /></p>
 
 ![](https://hit.yhype.me/github/profile?user_id=33681318)
