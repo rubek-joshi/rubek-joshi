@@ -7,10 +7,10 @@
 
 <h3 align="left">Find me here:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/rubek-joshi" target="blank">
+  <a href="https://linkedin.com/in/rubek-joshi" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubek-joshi" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/10753343" target="blank">
+  <a href="https://stackoverflow.com/users/10753343" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10753343" height="30" width="40" />
   </a>
 </p>
