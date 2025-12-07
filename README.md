@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Rubek</h1>
-<h3 align="left">I love writing code and looking like a pro hacker in front of my family.</h3>
+<h3 align="left">Usually sipping coffee, regularly wondering if I should refactor, occasionally optimizing and typically sharing bug stories. </h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rubek-joshi&label=Profile%20views&color=0e75b6&style=flat" alt="rubek-joshi" />
   <img src="https://img.shields.io/github/followers/rubek-joshi?style=social&label=Follow" alt="Rubek Joshi's Github Followers" />
