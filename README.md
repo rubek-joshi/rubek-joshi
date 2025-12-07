@@ -50,8 +50,8 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nest-js" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -65,8 +65,8 @@
   <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/>
   </a>
-  <a href="https://socket.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="cockroachdb" width="40" height="40"/>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
@@ -77,6 +77,12 @@
 </p>
 
 <p align="left">
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="cockroachdb" width="40" height="40"/>
+  </a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
   </a>
@@ -85,11 +91,11 @@
   </a>
 </p>
 
-<h3 align="left">Stats:</h3>
+<!-- <h3 align="left">Stats:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubek-joshi&show_icons=true&theme=dark&locale=en&layout=compact" alt="rubek-joshi" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubek-joshi&show_icons=true&theme=dark&locale=en" alt="rubek-joshi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubek-joshi&show_icons=true&theme=dark&locale=en" alt="rubek-joshi" /></p> -->
 
 ![](https://hit.yhype.me/github/profile?user_id=33681318)
